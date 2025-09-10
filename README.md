@@ -35,8 +35,6 @@ Data-driven analysis to detect profit leaks and optimize revenue using Power BI,
 ## 🌍 Impact
 Empower businesses to save millions by tackling hidden profit drains. Ready for freelance or job showcase!
 
-## 📧 Contact
-Questions? Reach out at [your-email@example.com](mailto:your-email@example.com).
 
 ---
 *Built by JK
