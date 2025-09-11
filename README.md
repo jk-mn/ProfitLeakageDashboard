@@ -132,7 +132,7 @@ rfm['RFM_Score'] = rfm[['R','F','M']].sum(axis=1)
 * Slider to adjust discount %
 * Forecasted revenue impact shown live
 
-*(Screenshots available in `[/dashboards/screenshots/](https://github.com/jk-mn/ProfitLeakageDashboard/blob/main/SummaryDeck.pdf)`)*
+*(Screenshots available in `[https://github.com/jk-mn/ProfitLeakageDashboard/blob/main/SummaryDeck.pdf]`*
 
 ---
 
