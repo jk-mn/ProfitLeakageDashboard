@@ -1,4 +1,5 @@
 Profit Leakage Detection & Revenue Optimization 🧠💸
+
 Welcome to the Profit Leakage Detection & Revenue Optimization project — a data-driven powerhouse designed to uncover hidden profit leaks and supercharge revenue using advanced analytics, machine learning, and interactive dashboards. Built with real-world business acumen, this project transforms raw online sales data into actionable insights that drive smarter decision-making. 🚀
 🎯 Project Objective
 Detect and eliminate profit leaks caused by discounts, returns, and pricing inefficiencies in online retail. Leverage financial modeling, predictive analytics, and interactive visualizations to optimize revenue and boost profitability.
