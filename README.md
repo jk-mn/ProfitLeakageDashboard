@@ -65,7 +65,7 @@ Impact: Proactive SKU tagging for quality checks and discount optimization.
 
 👉 Explore the interactive Power BI Dashboard here 'https://app.powerbi.com/groups/me/reports/1c553be4-c152-4eca-beec-4fb8d0660f1d/fa8e936c3c0474d8a810?experience=power-bi' 
 
-📸 Dashboard Screenshots (file:///D:/JK/Beast/DA/project%20two%20-%20DA/pythonProject/Capture.PNG)
+📸 Dashboard Screenshots file:///D:/JK/Beast/DA/project%20two%20-%20DA/pythonProject/Capture.PNG
 
 Profit Leakage by SKU: Bar chart showing top 20% of SKUs causing 70% of profit loss, with slicers for discount rate (0–20%) and category. Q4 Return Trends: Line graph highlighting 3× return spikes in Q4, with annotations for fragile item categories. Discount Impact Analysis: Scatter plot of discounts vs. profit margins, revealing >15% discounts erode low-margin SKUs. Geographic Profit Map: Heatmap of profit by country, highlighting Germany’s 12% margin loss from aggressive discounting.
 
