@@ -1,14 +1,53 @@
 Profit Leakage Detection & Revenue Optimization 🧠💸
 
 Welcome to the Profit Leakage Detection & Revenue Optimization project — a data-driven powerhouse designed to uncover hidden profit leaks and supercharge revenue using advanced analytics, machine learning, and interactive dashboards. Built with real-world business acumen, this project transforms raw online sales data into actionable insights that drive smarter decision-making. 🚀
-🎯 Project Objective
-Detect and eliminate profit leaks caused by discounts, returns, and pricing inefficiencies in online retail. Leverage financial modeling, predictive analytics, and interactive visualizations to optimize revenue and boost profitability.
+
+🏆 Problem Statement
+
+Most businesses lose profits silently due to excessive discounts, high product returns, and pricing inefficiencies. This project demonstrates how advanced analytics and predictive modeling can detect, measure, and eliminate these hidden leaks — leading to higher margins and sustainable revenue growth.
+
 📊 Dataset Snapshot
 
 Source: Kaggle – Online Retail Customer Clustering Dataset
 Scope: ~500,000 B2B transactions from a UK-based retailer
 Timeframe: 1-year period
 File: OnlineRetail.csv
+
+🔧 Tools Used
+
+SQL (PostgreSQL): Data modeling, joins, aggregations, feature engineering
+
+Python (Pandas, Scikit-learn): Cleaning, transformations, ML-based return prediction
+
+Power BI: Interactive dashboards, what-if analysis, executive reporting
+
+Excel: Scenario modeling & validation
+
+💡 Business Questions Solved
+
+Which products, regions, or customers are responsible for the biggest profit leaks?
+
+How much profit is lost due to excessive discounting?
+
+Which SKUs are most likely to be returned?
+
+What are the seasonal trends in discounts and returns?
+
+How would profits change if we adjust discount policies by 5–10%?
+
+📈 Key Insights
+
+20% of SKUs account for 70% of net profit loss → prioritize these.
+
+Germany’s discounts reduce margins by 12% → regional pricing strategy must change.
+
+Q4 return rates spike 3×, especially for fragile SKUs → improve packaging or quality checks.
+
+Discounts >15% on low-margin SKUs destroy profitability → cap discounts to protect margins.
+
+📊 Live Dashboard
+
+👉 Explore the interactive Power BI Dashboard here 'https://app.powerbi.com/groups/me/reports/1c553be4-c152-4eca-beec-4fb8d0660f1d/fa8e936c3c0474d8a810?experience=power-bi' 
 
 🛠️ What’s Inside?
 This project is a full-stack analytics solution, combining SQL, Python, Power BI, and machine learning to deliver actionable insights and a polished, client-ready experience.
@@ -51,23 +90,28 @@ ReturnRate: Percentage of returns per SKU/Customer
 🧪 What-If Analysis: Modeled margin changes to simulate profit impact.
 
 📊 Interactive Power BI Dashboard
+
 A client-ready dashboard with 4 dynamic pages:
 
 Executive Summary:
+
 KPIs: Revenue, Net Profit, Return %, Avg. Discount
 
 
 Profit Leakage:
+
 Breakdown by product, region, segment
 Slicer for discount simulation (0%–20%)
 
 
 Returns Analysis:
+
 SKU-level return rates
 Quarterly spike tracking
 
 
 Trend Analysis:
+
 Monthly profit trends
 Seasonal discount patterns
 
